@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Series on Welcome To My Blog</title>
-    <link>http://osyawz.github.io/series/</link>
+    <link>https://osywaz.github.io/osyawz.github.io/series/</link>
     <description>Recent content in Series on Welcome To My Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 18 Oct 2020 15:21:31 +0000</lastBuildDate>
     
-        <atom:link href="http://osyawz.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://osywaz.github.io/osyawz.github.io/series/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>Themes Guide</title>
-        <link>http://osyawz.github.io/series/themes-guide/</link>
+        <link>https://osywaz.github.io/osyawz.github.io/series/themes-guide/</link>
         <pubDate>Sun, 18 Oct 2020 15:21:31 +0000</pubDate>
         <author>zzossig@gmail.com (zzossig)</author>
         
-        <guid>http://osyawz.github.io/series/themes-guide/</guid>
+        <guid>https://osywaz.github.io/osyawz.github.io/series/themes-guide/</guid>
         <description></description>
         
         <dc:creator>zzossig</dc:creator>
